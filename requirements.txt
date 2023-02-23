@@ -1,0 +1,6 @@
+TensorFlow
+PIL
+requests
+patoolib
+tkinter
+matplotlib
